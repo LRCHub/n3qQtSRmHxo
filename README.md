@@ -1,0 +1,50 @@
+# Michael Jackson – Don't Stop 'Til You Get Enough
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Lovely is the feeling now
+Fever temperatures rising now
+Power is the force that vow
+
+That makes it happen
+It asks no questions why
+Get closer to my body now
+Just love me 'till you don't know how
+Keep on with the force don't stop
+Don't stop till you get enough keep on
+With the force don't stop
+Don't stop till you get enough keep on
+With the force don't stop
+Don't stop till you get enough keep on
+With the force don't stop
+Don't stop till you get enough
+
+Touch me and I feel on fire
+Ain't nothing like a love desire
+I'm melting like candle wax
+Sensation lovely where we're at
+So let love take us through the hours
+I won't be complaining
+'Cause this is love power
+Keep on with the force don't stop
+Don't stop till you get enough keep on
+With the force don't stop
+Don't stop till you get enough keep on
+With the force don't stop
+Don't stop till you get enough keep on
+With the force don't stop
+Don't stop till you get enough
+
+Heartbreak is a feeling now
+I won't be complaining
+'Cause your love is alright
+Keep on with the force don't stop
+Don't stop till you get enough keep on
+With the force don't stop
+Don't stop till you get enough keep on
+With the force don't stop
+Don't stop till you get enough keep on
+With the force don't stop
+Don't stop till you get enough
+```
