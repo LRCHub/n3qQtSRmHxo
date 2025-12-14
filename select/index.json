@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Don't Stop 'Til You Get Enough",
+  "base_artist": "Michael Jackson",
+  "createdAt": "2025-12-14T20:22:39.404613Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Stop 'Til You Get Enough",
+      "artist": "Amazonics",
+      "has_synced": false,
+      "path": "select/01_Don't_Stop_'Til_You_Get_Enough_Amazonics.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Stop 'Til You Get Enough",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/02_Don't_Stop_'Til_You_Get_Enough_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Stop 'Til You Get Enough",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/03_Don't_Stop_'Til_You_Get_Enough_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Stop Til You Get Enough",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/04_Don't_Stop_Til_You_Get_Enough_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Stop Til You Get Enough",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/05_Don't_Stop_Til_You_Get_Enough_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't Stop Til' You Get Enough",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/06_Don't_Stop_Til'_You_Get_Enough_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Stop 'Til You Get Enough",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/07_Don't_Stop_'Til_You_Get_Enough_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don't Stop 'til You Get Enough",
+      "artist": "The Jacksons",
+      "has_synced": true,
+      "path": "select/08_Don't_Stop_'til_You_Get_Enough_The_Jacksons.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Stop 'til You Get Enough",
+      "artist": "Keller Williams",
+      "has_synced": false,
+      "path": "select/09_Don't_Stop_'til_You_Get_Enough_Keller_Williams.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dont Stop 'Til You Get Enough",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/10_Dont_Stop_'Til_You_Get_Enough_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Stop 'Til You Get Enough",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/11_Don't_Stop_'Til_You_Get_Enough_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Stop 'Til You Get Enough",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/12_Don't_Stop_'Til_You_Get_Enough_Michael_Jackson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't Stop 'Til You Get Enough",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_Stop_'Til_You_Get_Enough_Michael_Jackson.txt"
+    }
+  ]
+}
